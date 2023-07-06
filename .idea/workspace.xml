@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ab1c8cc-b6b5-4681-89e7-4b5af0219eaf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/intim-florts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/image 30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/image 31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/image 32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/image 33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/image 34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/image 35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/image 36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/image 37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/image 38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/image 39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/image 5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/image 52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/image 54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/image 55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/image 56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/background/Background.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/footer/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/footer/footer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/icons/ArrowIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/icons/BirthdateIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/icons/EmailIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/icons/GenderIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/icons/LocationIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/icons/LookingForIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/icons/PasswordIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/icons/SearchIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/icons/SeekingForIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/icons/UsernameIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/question/Question.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/question/question.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/signup-form/SignupForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/signup-form/signup-form.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/signup-steps/birthdate/Birthdate.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/signup-steps/birthdate/birthdate.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/signup-steps/date-type/DateType.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/signup-steps/date-type/date-type.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/signup-steps/email/Email.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/signup-steps/email/email.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/signup-steps/gender/Gender.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/signup-steps/gender/gender.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/signup-steps/location/Location.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/signup-steps/location/location.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/signup-steps/looking-for/LookingFor.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/signup-steps/looking-for/looking-for.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/signup-steps/password/Password.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/signup-steps/password/password.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/signup-steps/username/Username.tsx.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/signup-steps/username/username.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contexts/RegistrationContext.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/date.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/footer-navigation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/signup-icons.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/signup-steps.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/not-found/NotFound.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/not-found/not-found.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/sign-up/SignUp.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/under-construction/UnderConstruction.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/under-construction/under-construction.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/RegistrationService.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2S3KhBWsxI9dv1HzkMjYROoq6d4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "D:\\Arevik\\Arevik\\djinni\\intim-florts\\node_modules\\prettier",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ab1c8cc-b6b5-4681-89e7-4b5af0219eaf" name="Changes" comment="" />
+      <created>1688369948109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688369948109</updated>
+      <workItem from="1688369951327" duration="9000" />
+      <workItem from="1688658421076" duration="2172000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
