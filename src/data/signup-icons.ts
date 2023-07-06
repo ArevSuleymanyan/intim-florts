@@ -9,7 +9,7 @@ import { LocationIcon } from '../components/icons/LocationIcon';
 
 export const SIGNUP_ICONS = [
   {
-    step: 'looking-for',
+    step: 'date-type',
     component: LookingForIcon,
   },
   {

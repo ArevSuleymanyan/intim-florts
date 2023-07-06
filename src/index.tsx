@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
+import * as ReactDOM  from 'react-dom';
 import './index.css';
 import 'react-toastify/dist/ReactToastify.css';
 import { RegistrationProvider } from './contexts/RegistrationContext';
@@ -8,10 +8,6 @@ import { SignUp } from './pages/sign-up/SignUp';
 import { UnderConstruction } from './pages/under-construction/UnderConstruction';
 import { NotFound } from './pages/not-found/NotFound';
 import { ToastContainer } from 'react-toastify';
-
-const root = ReactDOM.createRoot(
-  document.getElementById('root') as HTMLElement
-);
 
 const router = createBrowserRouter([
   {
@@ -32,11 +28,13 @@ window.addEventListener('beforeunload', () => {
   localStorage.removeItem('userId');
   localStorage.removeItem('missing_fields');
 });
-root.render(
+
+const rootNode = document.getElementById('root');
+ReactDOM.render(
   <React.StrictMode>
-    <RegistrationProvider>
-      <RouterProvider router={router} />
-    </RegistrationProvider>
-    <ToastContainer />
+         <RegistrationProvider>
+          <RouterProvider router={router} />
+       </RegistrationProvider>
+        <ToastContainer />
   </React.StrictMode>
-);
+  , rootNode);
