@@ -17,7 +17,7 @@ export const SIGNUP_ICONS = [
     component: GenderIcon,
   },
   {
-    step: 'seeking-for',
+    step: 'looking-for',
     component: SeekingForIcon,
   },
   {

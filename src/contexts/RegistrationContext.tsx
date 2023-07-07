@@ -75,6 +75,7 @@ export const RegistrationProvider = ({
 
   const backStep = useCallback((value: string) => {
     const currentIndex = SIGNUP_STEPS.findIndex((item) => item.step === value);
+    console.log(currentIndex,SIGNUP_STEPS, value);
     const backValue = SIGNUP_STEPS[currentIndex - 1].step;
     setCurrentStep(backValue);
   }, []);

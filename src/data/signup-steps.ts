@@ -17,7 +17,7 @@ export const SIGNUP_STEPS = [
     component: Gender,
   },
   {
-    step: 'seeking-for',
+    step: 'looking-for',
     component: LookingFor,
   },
   {
